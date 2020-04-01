@@ -1,0 +1,19 @@
+{
+  "name": "learning-golang",
+  "version": "1.0.0",
+  "description": "Just playing around with this website and learning go https://golangr.com/exercises/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaialbarran/learning-golang.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaialbarran/learning-golang/issues"
+  },
+  "homepage": "https://github.com/isaialbarran/learning-golang#readme"
+}
